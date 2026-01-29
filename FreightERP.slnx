@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/FreightERP.API/FreightERP.API.csproj" />
+  </Folder>
+</Solution>
